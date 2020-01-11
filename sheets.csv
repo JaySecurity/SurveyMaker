@@ -1,0 +1,351 @@
+"CA8363 - WATERFORD S+G         LBR-3         LIE L586 XPOWER         In Service         7 Nov, 2019                 Last Meter Hours:  15,246        ",,,,,,,,,,,,,,,
+P01-LBR-3-1,APE1063G4A,WSG-937,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,60,60,940,0,IF-18:Good Condition,IA-42:Return to Service,4,0
+P02-LBR-3-2,APE1964G5A,WSG-939,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,40,40,940,0,IF-18:Good Condition,IA-42:Return to Service,4,0
+P03-LBR-3-3,APE1186G1A,WSG-936,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,33,33,940,0,IF-18:Good Condition,IA-42:Return to Service,4,0
+P04-LBR-3-4,F7E482321,WSG-429,29.5R25 BST VSDT D2A L5 **,Y,100,Cold,Within Range,28,28,"15,859",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-15         CAT 740B         In Service                         Last Meter Hours:  14,620        ",,,,,,,,,,,,,,,
+P01-ADT-15-1,XY2TDB928,WSG-885,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,55,55,"1,691",0,No Inspection Data,,,0
+P02-ADT-15-2,XY3TDB047,WSG-884,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,56,56,"1,691",0,No Inspection Data,,,0
+P03-ADT-15-3,S1K001630C1,WSG-653C1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,14,14,"3,470",0,No Inspection Data,,,0
+P04-ADT-15-4,X5Y003206C1,WSG-734C1,29.5R25 KAL VMT B2B KTCA E3 RT,Y,,,No Pressure,13,13,"3,470",0,No Inspection Data,,,0
+P05-ADT-15-5,525349702C1,WSG-633C1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,33,33,437,0,No Inspection Data,,,0
+P06-ADT-15-6,W6N001251C1,WSG-759C1,29.5R25 KAL VMT B2B KTCA E3 RT,Y,,,No Pressure,31,31,437,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-16         CAT 740B         In Service                         Last Meter Hours:  14,502        ",,,,,,,,,,,,,,,
+P01-ADT-16-1,W8U005050,WSG-922,29.5R25 BST VLT DE2 E3/L3 MS,N,,,No Pressure,43,43,835,0,No Inspection Data,,,0
+P02-ADT-16-2,W8A003271,WSG-923,29.5R25 BST VLT DE2 E3/L3 MS,N,,,No Pressure,43,43,835,0,No Inspection Data,,,0
+P03-ADT-16-3,DCR0198E5AC1,WSG-800C1,29.5R25 KAL VMT B2B KTCA E3 RT,Y,,,No Pressure,40,40,0,0,No Inspection Data,,,0
+P04-ADT-16-4,XCR0062E2AC1,WSG-802C1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,40,40,0,0,No Inspection Data,,,0
+P05-ADT-16-5,WSG-855C1,,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,40,40,0,0,No Inspection Data,,,0
+P06-ADT-16-6,DPE4572G4BC1,WSG-801C1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,40,40,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-17         CAT 740B         In Service                         Last Meter Hours:  16,792        ",,,,,,,,,,,,,,,
+P01-ADT-17-1,XM4VDC496,WSG-948,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P02-ADT-17-2,XM3VDC357,WSG-944,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P03-ADT-17-3,XM4VDC500,WSG-945,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P04-ADT-17-4,XM3VDC358,WSG-946,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P05-ADT-17-5,XM0VDC966,WSG-949,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P06-ADT-17-6,XM4VDC491,WSG-947,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-18         CAT 740B         In Service                         Last Meter Hours:  18,319        ",,,,,,,,,,,,,,,
+P01-ADT-18-1,,525349748,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,37,37,"2,866",0,No Inspection Data,,,0
+P02-ADT-18-2,DPE4571G5B,WSG-804,29.5R25 MIC XADN Std E3T **,Y,,,No Pressure,16,16,"4,067",0,No Inspection Data,,,0
+P03-ADT-18-3,YVC6528M4A,WSG-862,29.5R25 MIC XADN Std E3T **,N,,,No Pressure,13,13,"1,219",0,No Inspection Data,,,0
+P04-ADT-18-4,VVI0356E0A,526044718,29.5R25 MIC X SUP-T AD Std E4T **,N,,,No Pressure,17,17,410,0,No Inspection Data,,,0
+P05-ADT-18-5,X4B004315,WSG-717,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,18,18,"5,767",0,No Inspection Data,,,0
+P06-ADT-18-6,F1S383151,WSG-768,29.5R25 BST VJT D2A L3 *,Y,,,No Pressure,15,15,"6,131",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-19         VOL A35D         In Service                         Last Meter Hours:  16,645        ",,,,,,,,,,,,,,,
+P01-ADT-19-1,HW5SND497,WSG-959,26.5R25 YOK RT31+ CP E3/L3 **,N,,,No Pressure,45,45,0,0,No Inspection Data,,,0
+P02-ADT-19-2,HW4SND376,WSG-958,26.5R25 YOK RT31+ CP E3/L3 **,N,,,No Pressure,45,45,0,0,No Inspection Data,,,0
+P03-ADT-19-3,7512222201J,WSG-823,26.5R25 MAX MS301 K E3/L3 **,N,,,No Pressure,10,10,"1,872",0,No Inspection Data,,,0
+P04-ADT-19-4,14091422401,WSG-790,26.5R25 TRI TB516 Std L3 **,Y,,,No Pressure,22,22,"3,993",0,No Inspection Data,,,0
+P05-ADT-19-5,7531232301J,WSG-824,26.5R25 MAX MS301 K E3/L3 **,N,,,No Pressure,9,9,"1,872",0,No Inspection Data,,,0
+P06-ADT-19-6,760522302J,WSG-825,26.5R25 MAX MS301 K E3/L3 **,N,,,No Pressure,11,11,"1,945",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-20         VOL A40F         In Service                         Last Meter Hours:  5,964        ",,,,,,,,,,,,,,,
+P01-ADT-20-1,AX3WD8087,WSG-874,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,44,44,"5,964",0,No Inspection Data,,,0
+P02-ADT-20-2,AX4WD8031,WSG-879,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,44,44,"5,964",0,No Inspection Data,,,0
+P03-ADT-20-3,AX3WD8083,WSG-875,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,40,40,"5,964",0,No Inspection Data,,,0
+P04-ADT-20-4,AX2WD8904,WSG-878,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,44,44,"5,964",0,No Inspection Data,,,0
+P05-ADT-20-5,AX3WD8084,WSG-876,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,36,36,"5,964",0,No Inspection Data,,,0
+P06-ADT-20-6,,WSG-877,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,35,35,"5,964",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-21         CAT 740B         In Service                         Last Meter Hours:  7,391        ",,,,,,,,,,,,,,,
+P01-ADT-21-1,XM5VDC632,WSG-972,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P02-ADT-21-2,XM6VDC750,WSG-971,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P03-ADT-21-3,BVL5371M1A,WSG-863,29.5R25 MIC XADN Std E3T **,N,,,No Pressure,22,22,"1,175",0,No Inspection Data,,,0
+P04-ADT-21-4,DVX0474G6A,WSG-665,29.5R25 MIC X SUP-T AD Std E4T **,Y,,,No Pressure,21,21,"11,228",0,No Inspection Data,,,0
+P05-ADT-21-5,S1232032101J,WSG-727,29.5R25 MAX MS301 Std E3/L3 **,N,,,No Pressure,21,21,"2,287",0,No Inspection Data,,,0
+P06-ADT-21-6,XVC1398A4A,WSG-869,29.5R25 MIC XADN Std E3T **,Y,,,No Pressure,24,24,12,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         ADT-22         CAT 740B         In Service                         Last Meter Hours:  7,894        ",,,,,,,,,,,,,,,
+P01-ADT-22-1,XM3VDC259,WSG-950,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P02-ADT-22-2,XM4VDC493,WSG-951,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P03-ADT-22-3,YCJ0366A4AC2,WSG-592C2,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,32,32,587,0,No Inspection Data,,,0
+P04-ADT-22-4,XVY1736M4AC3,WSG-518C3,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,32,32,587,0,No Inspection Data,,,0
+P05-ADT-22-5,S24600216,WSG-839,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,29,29,587,0,No Inspection Data,,,0
+P06-ADT-22-6,X5E003609C1,WSG-736C1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,28,28,587,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-15         CAT 980H         In Service                         Last Meter Hours:  28,965        ",,,,,,,,,,,,,,,
+P01-CAT-15-1,00926BD05C1,WSG-511C1,35/65-33 KAL GL S&G KTCA L5 RT,N,,,No Pressure,56,56,"5,577",0,No Inspection Data,,,0
+P02-CAT-15-2,00128BE05C1,WSG-508C1,35/65-33 KAL GL S&G KTCA L5 RT,Y,,,No Pressure,51,51,"5,577",0,No Inspection Data,,,0
+P03-CAT-15-3,Y8U009561C1,WSG-288C1,35/65-33 KAL GL S&G KTCA L4 RT,Y,,,No Pressure,22,22,"5,577",0,No Inspection Data,,,0
+P04-CAT-15-4,Y8U003567C1,WSG-287C1,35/65-33 KAL GL S&G KTCA L4 RT,Y,,,No Pressure,23,23,"5,577",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-23         CAT 988F         In Service                         Last Meter Hours:  27,769        ",,,,,,,,,,,,,,,
+P01-CAT-23-1,FPC3429E2A,WSG-639,35/65R33 MIC XLDD2 A L5 **,Y,,,No Pressure,49,49,"8,524",0,No Inspection Data,,,0
+P02-CAT-23-2,UPC2846E5A,WSG-642,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,56,56,"8,610",0,No Inspection Data,,,0
+P03-CAT-23-3,UPC2829E2A,WSG-641,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,52,52,"8,610",0,No Inspection Data,,,0
+P04-CAT-23-4,FPC4741E0A,WSG-640,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,55,55,"8,610",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-27         CAT 988F         In Service                         Last Meter Hours:  25,604        ",,,,,,,,,,,,,,,
+P01-CAT-27-1,,WSG-609,35/65R33 GDY RL5K 6S L5 **,N,,,No Pressure,55,55,"5,255",0,No Inspection Data,,,0
+P02-CAT-27-2,,WSG-608,35/65R33 GDY RL5K 6S L5 **,N,,,No Pressure,58,58,"5,255",0,No Inspection Data,,,0
+P03-CAT-27-3,S3K003588,WSG-682,35/65R33 BST VSNT DUH L4 MT,N,,,No Pressure,33,33,"10,061",0,No Inspection Data,,,0
+P04-CAT-27-4,522644525,WSG-707,35/65R33 KAL XLDD2 B2B KTCA L5 RT,N,,,No Pressure,60,60,"6,045",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-28         CAT 980G         In Service                         Last Meter Hours:  22,670        ",,,,,,,,,,,,,,,
+P01-CAT-28-1,S1A003682,WSG-671,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,22,22,"7,058",0,No Inspection Data,,,0
+P02-CAT-28-2,,WSG-668,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,21,21,"7,058",0,No Inspection Data,,,0
+P03-CAT-28-3,S1A003018,WSG-669,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,20,20,"7,058",0,No Inspection Data,,,0
+P04-CAT-28-4,S0J002661,WSG-670,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,21,21,"7,058",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-30         CAT 980H         In Service                         Last Meter Hours:  25,212        ",,,,,,,,,,,,,,,
+P01-CAT-30-1,523054045,WSG-891,29.5R25 KAL GL S&G KTCA L5 RT,N,,,No Pressure,90,90,"1,509",0,No Inspection Data,,,0
+P02-CAT-30-2,523054049,WSG-894,29.5R25 KAL GL S&G KTCA L5 RT,N,,,No Pressure,89,89,"1,509",0,No Inspection Data,,,0
+P03-CAT-30-3,SOA000328,WSG-892,29.5R25 KAL GL S&G KTCA L5 RT,N,,,No Pressure,92,92,"1,373",0,No Inspection Data,,,0
+P04-CAT-30-4,SOL001975,WSG-893,29.5R25 KAL GL S&G KTCA L5 RT,N,,,No Pressure,90,90,"1,373",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-32         CAT 980H         In Service                         Last Meter Hours:  22,474        ",,,,,,,,,,,,,,,
+P01-CAT-32-1,F7S481559,WSG-818,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,44,44,"2,074",0,No Inspection Data,,,0
+P02-CAT-32-2,F7S481560,WSG-821,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,44,44,"2,074",0,No Inspection Data,,,0
+P03-CAT-32-3,F7S481564,WSG-819,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,44,44,"2,074",0,No Inspection Data,,,0
+P04-CAT-32-4,F7S481556,WSG-820,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,44,44,"2,074",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-36         CAT 988H         In Service                         Last Meter Hours:  25,191        ",,,,,,,,,,,,,,,
+P01-CAT-36-1,S8N002284,WSG-513,35/65R33 BST VSDL D2A L5 *,N,,,No Pressure,27,27,"10,496",0,No Inspection Data,,,0
+P02-CAT-36-2,S8N002286,WSG-512,35/65R33 BST VSDL D2A L5 *,N,,,No Pressure,32,32,"10,965",0,No Inspection Data,,,0
+P03-CAT-36-3,S8N002287,WSG-514,35/65R33 BST VSDL D2A L5 *,Y,,,No Pressure,32,32,"10,489",0,No Inspection Data,,,0
+P04-CAT-36-4,S8N002524,WSG-515,35/65R33 BST VSDL D2A L5 *,Y,,,No Pressure,35,35,"10,538",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-37         CAT 988H         In Service                         Last Meter Hours:  28,862        ",,,,,,,,,,,,,,,
+P01-CAT-37-1,ZPF1870T4A,WSG-795,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,33,33,"6,412",0,No Inspection Data,,,0
+P02-CAT-37-2,ZPF4391T3A,WSG-794,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,35,35,"6,412",0,No Inspection Data,,,0
+P03-CAT-37-3,ZPF4397T7A,WSG-796,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,28,28,"6,412",0,No Inspection Data,,,0
+P04-CAT-37-4,ZPF1860T4A,WSG-793,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,29,29,"6,412",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-38         CAT 980H         In Service                         Last Meter Hours:  24,275        ",,,,,,,,,,,,,,,
+P01-CAT-38-1,X5B003240,WSG-827,29.5-25 FST PTLD Std L5S 34 PR,N,,,No Pressure,62,62,"5,242",0,No Inspection Data,,,0
+P02-CAT-38-2,524094221,WSG-909,29.5R25 KAL PTLD S&G KTCA L5S RT,N,,,No Pressure,84,84,"1,743",0,No Inspection Data,,,0
+P03-CAT-38-3,523054008,WSG-751,29.5R25 KAL PTLD S&G KTCA L5S RT,Y,,,No Pressure,52,52,"6,794",0,No Inspection Data,,,0
+P04-CAT-38-4,X1J000859,WSG-594,29.5-25 FST PTLD Std L5S 34 PR,Y,,,No Pressure,17,17,"5,939",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-39         CAT 980H         In Service                         Last Meter Hours:  19,230        ",,,,,,,,,,,,,,,
+P01-CAT-39-1,W7Y003971,WSG-829,29.5R25 BST VJT D2A L3 *,N,,,No Pressure,35,35,"4,130",0,No Inspection Data,,,0
+P02-CAT-39-2,W7R001135,WSG-828,29.5R25 BST VJT D2A L3 *,N,,,No Pressure,37,37,"4,130",0,No Inspection Data,,,0
+P03-CAT-39-3,W7R001137,WSG-830,29.5R25 BST VJT D2A L3 *,N,,,No Pressure,35,35,"4,130",0,No Inspection Data,,,0
+P04-CAT-39-4,W7R001141,WSG-831,29.5R25 BST VJT D2A L3 *,N,,,No Pressure,37,37,"4,130",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-40         CAT 980H         In Service                         Last Meter Hours:  17,754        ",,,,,,,,,,,,,,,
+P01-CAT-40-1,F7B285358,WSG-836,29.5R25 BST VJT D2A L3 *,N,,,No Pressure,24,24,"2,726",0,No Inspection Data,,,0
+P02-CAT-40-2,F7B285355,WSG-837,29.5R25 BST VJT D2A L3 *,N,,,No Pressure,24,24,"2,726",0,No Inspection Data,,,0
+P03-CAT-40-3,1VYO292M4AC2,WSG-539C2,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,19,19,"2,726",0,No Inspection Data,,,0
+P04-CAT-40-4,CUY1529MIA/528889055C1,WSG-521C1,29.5R25 KAL VMT B2B KTCA E3 RT,Y,,,No Pressure,21,21,"2,636",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-41         CAT 980H         In Service                         Last Meter Hours:  11,756        ",,,,,,,,,,,,,,,
+P01-CAT-41-1,X5B002514,,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,38,38,"1,756",0,No Inspection Data,,,0
+P02-CAT-41-2,X5B002582,,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,37,37,"1,756",0,No Inspection Data,,,0
+P03-CAT-41-3,X5B002524,,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,38,38,"1,756",0,No Inspection Data,,,0
+P04-CAT-41-4,W6S002680,,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,38,38,"1,756",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-42         CAT 980H         In Service                         Last Meter Hours:  12,317        ",,,,,,,,,,,,,,,
+P01-CAT-42-1,,WSG-910,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,61,61,85,0,No Inspection Data,,,0
+P02-CAT-42-2,,WSG-912,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,61,61,85,0,No Inspection Data,,,0
+P03-CAT-42-3,,WSG-913,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,62,62,85,0,No Inspection Data,,,0
+P04-CAT-42-4,,WSG-911,29.5R25 YOK RT41 CP E4 **,N,,,No Pressure,62,62,85,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-43         CAT 980H         In Service                         Last Meter Hours:  21,341        ",,,,,,,,,,,,,,,
+P01-CAT-43-1,W8J001978,WSG-918,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,42,42,0,0,No Inspection Data,,,0
+P02-CAT-43-2,W8B005273,WSG-919,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,42,42,0,0,No Inspection Data,,,0
+P03-CAT-43-3,W8B004115,WSG-921,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,42,42,0,0,No Inspection Data,,,0
+P04-CAT-43-4,W8J000736,WSG-920,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,42,42,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-44         CAT 980H         In Service                         Last Meter Hours:  13,241        ",,,,,,,,,,,,,,,
+P01-CAT-44-1,X3B002890,WSG-704,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,15,15,"7,853",0,No Inspection Data,,,0
+P02-CAT-44-2,X4E004758,WSG-701,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,17,17,"7,853",0,No Inspection Data,,,0
+P03-CAT-44-3,X3K001877,WSG-703,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,13,13,"7,853",0,No Inspection Data,,,0
+P04-CAT-44-4,EVC2335T4A,WSG-634,29.5R25 MIC XHA2 Std L3 **,Y,,,No Pressure,14,14,"5,130",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-45         CAT 966H         In Service                         Last Meter Hours:  10,009        ",,,,,,,,,,,,,,,
+P01-CAT-45-1,F0L281774,WSG-572,26.5R25 BST VLTS E2A E4 **,N,,,No Pressure,24,24,"9,462",0,No Inspection Data,,,0
+P02-CAT-45-2,F0Y381554,WSG-575,26.5R25 BST VLTS E2A E4 **,N,,,No Pressure,25,25,"9,462",0,No Inspection Data,,,0
+P03-CAT-45-3,F0Y383481,WSG-573,26.5R25 BST VLTS E2A E4 **,N,,,No Pressure,26,26,"9,462",0,No Inspection Data,,,0
+P04-CAT-45-4,F0L282829,WSG-574,26.5R25 BST VLTS E2A E4 **,N,,,No Pressure,27,27,"9,462",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-46         CAT 980H         In Service                         Last Meter Hours:  14,280        ",,,,,,,,,,,,,,,
+P01-CAT-46-1,UPY5621M8A,WSG-585,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,25,25,"14,280",0,No Inspection Data,,,0
+P02-CAT-46-2,APC2131M8A,WSG-586,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,32,32,"14,280",0,No Inspection Data,,,0
+P03-CAT-46-3,APC2132M7A,WSG-584,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,27,27,"14,280",0,No Inspection Data,,,0
+P04-CAT-46-4,APL2341M8A,WSG-587,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,27,27,"14,280",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-47         CAT 980H         In Service                         Last Meter Hours:  15,017        ",,,,,,,,,,,,,,,
+P01-CAT-47-1,UVX1757A2A,WSG-777,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,18,18,"10,507",0,No Inspection Data,,,0
+P02-CAT-47-2,UVX1794A5A,WSG-780,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,19,19,"10,507",0,No Inspection Data,,,0
+P03-CAT-47-3,F8N481630,WSG-720,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,11,11,"5,287",0,No Inspection Data,,,0
+P04-CAT-47-4,UVX2012A7A,WSG-779,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,17,17,"10,507",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-48         CAT 980H         In Service                         Last Meter Hours:  13,329        ",,,,,,,,,,,,,,,
+P01-CAT-48-1,1008NJ7603,WSG-698,29.5R25 GDY GP4B AT 4S L4 **,N,,,No Pressure,32,32,"9,432",0,No Inspection Data,,,0
+P02-CAT-48-2,1108NJ0088,WSG-699,29.5R25 GDY GP4B AT 4S L4 **,N,,,No Pressure,34,34,"9,432",0,No Inspection Data,,,0
+P03-CAT-48-3,1008NJ4613,WSG-697,29.5R25 GDY GP4B AT 4S L4 **,N,,,No Pressure,34,34,"9,432",0,No Inspection Data,,,0
+P04-CAT-48-4,1108NJ0080,WSG-700,29.5R25 GDY GP4B AT 4S L4 **,N,,,No Pressure,36,36,"9,432",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-49         CAT 980H         In Service                         Last Meter Hours:  15,475        ",,,,,,,,,,,,,,,
+P01-CAT-49-1,W8Y002645,WSG-965,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,41,41,0,0,No Inspection Data,,,0
+P02-CAT-49-2,W8Y003845,WSG-968,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,41,41,0,0,No Inspection Data,,,0
+P03-CAT-49-3,W8R004496,WSG-966,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,41,41,0,0,No Inspection Data,,,0
+P04-CAT-49-4,W8Y002631,WSG-967,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,41,41,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-50         CAT 980H         In Service                         Last Meter Hours:  10,691        ",,,,,,,,,,,,,,,
+P01-CAT-50-1,BVU0171A7A,WSG-904,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,35,35,"1,351",0,No Inspection Data,,,0
+P02-CAT-50-2,BVU1165A3A,WSG-906,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,32,32,"1,351",0,No Inspection Data,,,0
+P03-CAT-50-3,BVU0172A6A,WSG-905,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,34,34,"1,351",0,No Inspection Data,,,0
+P04-CAT-50-4,BVU1153A5A,WSG-907,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,37,37,"1,351",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-51         CAT 988H         In Service                         Last Meter Hours:  19,102        ",,,,,,,,,,,,,,,
+P01-CAT-51-1,APV4805E3Y,WSG-763,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,26,26,"8,833",0,No Inspection Data,,,0
+P02-CAT-51-2,APV4778E0Y,WSG-764,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,28,28,"8,833",0,No Inspection Data,,,0
+P03-CAT-51-3,UPE2403M4A,WSG-762,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,22,22,"8,833",0,No Inspection Data,,,0
+P04-CAT-51-4,UPE2399M8A,WSG-761,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,21,21,"8,833",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-52         CAT 980H         In Service                         Last Meter Hours:  11,623        ",,,,,,,,,,,,,,,
+P01-CAT-52-1,X4J002598,WSG-714,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,16,16,"9,192",0,No Inspection Data,,,0
+P02-CAT-52-2,X4B003062,WSG-713,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,17,17,"9,192",0,No Inspection Data,,,0
+P03-CAT-52-3,X4J002597,WSG-712,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,16,16,"9,192",0,No Inspection Data,,,0
+P04-CAT-52-4,F8N481634,WSG-719,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,12,12,"6,504",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-53         CAT 980H         In Service                         Last Meter Hours:  10,192        ",,,,,,,,,,,,,,,
+P01-CAT-53-1,,WSG-688,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,56,56,"10,192",0,No Inspection Data,,,0
+P02-CAT-53-2,,WSG-689,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,59,59,"10,192",0,No Inspection Data,,,0
+P03-CAT-53-3,,WSG-687,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,54,54,"10,192",0,No Inspection Data,,,0
+P04-CAT-53-4,,WSG-690,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,54,54,"10,192",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-56         CAT 980H         In Service                         Last Meter Hours:  10,450        ",,,,,,,,,,,,,,,
+P01-CAT-56-1,,WSG-731,29.5R25 MIC XHA Std L3 *,N,,,No Pressure,13,13,"3,532",0,No Inspection Data,,,0
+P02-CAT-56-2,,WSG-733,29.5R25 MIC XHA Std L3 *,N,,,No Pressure,15,15,"3,532",0,No Inspection Data,,,0
+P03-CAT-56-3,X5E002079,WSG-735,29.5R25 BST VMT D2A L3 *,Y,,,No Pressure,7,7,"2,395",0,No Inspection Data,,,0
+P04-CAT-56-4,,WSG-730,29.5R25 MIC XHA Std L3 *,Y,,,No Pressure,13,13,"3,312",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-57         CAT 930H         In Service                         Last Meter Hours:  5,195        ",,,,,,,,,,,,,,,
+P01-CAT-57-1,ETM0651S0A,WSG-955,20.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,27,27,156,0,No Inspection Data,,,0
+P02-CAT-57-2,ETM0980S1A,WSG-954,20.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,27,27,156,0,No Inspection Data,,,0
+P03-CAT-57-3,ETM0650S1A,WSG-953,20.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,25,25,156,0,No Inspection Data,,,0
+P04-CAT-57-4,ETM0237S4A,WSG-952,20.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,25,25,156,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-58         CAT 980H         In Service                         Last Meter Hours:  6,544        ",,,,,,,,,,,,,,,
+P01-CAT-58-1,,WSG-813,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,53,53,"2,466",0,No Inspection Data,,,0
+P02-CAT-58-2,,WSG-815,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,58,58,"2,466",0,No Inspection Data,,,0
+P03-CAT-58-3,,WSG-814,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,54,54,"2,466",0,No Inspection Data,,,0
+P04-CAT-58-4,S5R004028,48003,29.5R25 BST VSDL D2A L5 *,N,,,No Pressure,42,42,"1,168",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-59         CAT 980H         In Service                         Last Meter Hours:  8,130        ",,,,,,,,,,,,,,,
+P01-CAT-59-1,,WSG-810,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,61,61,"3,905",0,No Inspection Data,,,0
+P02-CAT-59-2,,WSG-812,29.5R25 MIC XLDD2 A L5 *,N,,,No Pressure,52,52,"3,905",0,No Inspection Data,,,0
+P03-CAT-59-3,,WSG-809,29.5R25 MIC XLDD2 A L5 *,Y,,,No Pressure,60,60,"3,838",0,No Inspection Data,,,0
+P04-CAT-59-4,,WSG-811,29.5R25 MIC XLDD2 A L5 *,Y,,,No Pressure,60,60,"3,838",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-60         CAT 980H         In Service                         Last Meter Hours:  3,343        ",,,,,,,,,,,,,,,
+P01-CAT-60-1,F7N381962,WSG-840,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,33,33,"3,343",0,No Inspection Data,,,0
+P02-CAT-60-2,F7N381961,WSG-843,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,34,34,"3,343",0,No Inspection Data,,,0
+P03-CAT-60-3,F7N381959,WSG-841,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,35,35,"3,343",0,No Inspection Data,,,0
+P04-CAT-60-4,F7N381958,WSG-842,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,37,37,"3,343",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-61         CAT 980H         In Service                         Last Meter Hours:  3,033        ",,,,,,,,,,,,,,,
+P01-CAT-61-1,F7N382757,WSG-844,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,41,43,"2,479",0,No Inspection Data,,,0
+P02-CAT-61-2,F7N382774,WSG-847,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,41,43,"2,479",0,No Inspection Data,,,0
+P03-CAT-61-3,F7N382758,WSG-845,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,41,42,"2,479",0,No Inspection Data,,,0
+P04-CAT-61-4,F7N382756,WSG-846,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,46,46,"2,479",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-62         CAT 988G         In Service                         Last Meter Hours:  30,865        ",,,,,,,,,,,,,,,
+P01-CAT-62-1,XPU1532G0A,WSG-883,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,52,52,565,0,No Inspection Data,,,0
+P02-CAT-62-2,XPU1511G1A,WSG-881,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,54,54,565,0,No Inspection Data,,,0
+P03-CAT-62-3,XPU1641G1A,WSG-880,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,54,54,565,0,No Inspection Data,,,0
+P04-CAT-62-4,XPU1543G9A,WSG-882,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,54,54,565,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-63         CAT 980M         In Service                         Last Meter Hours:  1,936        ",,,,,,,,,,,,,,,
+P01-CAT-63-1,,WSG-924,29.5R25 BST VSNT DE2 E4 MS,Y,100,Cold,Within Range,39,39,"1,792",0,No Inspection Data,,,0
+P02-CAT-63-2,,WSG-926,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,43,43,"1,936",0,No Inspection Data,,,0
+P03-CAT-63-3,,WSG-925,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,38,38,"1,936",0,No Inspection Data,,,0
+P04-CAT-63-4,,WSG-927,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,35,35,"1,936",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-64         CAT 980M         In Service         7 Nov, 2019                 Last Meter Hours:  2,139        ",,,,,,,,,,,,,,,
+P01-CAT-64-1,F7B482731,WSG-934,29.5R25 BST VSNT DE2 E4 MS,N,100,Cold,Within Range,39,39,"1,587",0,No Inspection Data,,,0
+P02-CAT-64-2,APU1374M9A,WSG-956,29.5R25 MIC XLDD1 A L4 *,N,,,No Pressure,56,56,733,0,No Inspection Data,,,0
+P03-CAT-64-3,F7B483261,WSG-932,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,26,26,"2,139",0,No Inspection Data,,,0
+P04-CAT-64-4,F7B582504,WSG-935,29.5R25 BST VSNT DE2 E4 MS,N,,,No Pressure,29,29,"2,139",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-65         CAT 988H         In Service                         Last Meter Hours:  20,070        ",,,,,,,,,,,,,,,
+P01-CAT-65-1,ECT0139T8A,,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,94,94,444,0,No Inspection Data,,,0
+P02-CAT-65-2,ECT0130T7A,,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,94,94,444,0,No Inspection Data,,,0
+P03-CAT-65-3,ECT0122T5A,,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,93,93,393,0,No Inspection Data,,,0
+P04-CAT-65-4,ECT0114T3A,,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,94,94,393,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-66         CAT 988K         In Service                         Last Meter Hours:  1,393        ",,,,,,,,,,,,,,,
+P01-CAT-66-1,VPU3537G2A,WSG-916,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,60,60,0,0,No Inspection Data,,,0
+P02-CAT-66-2,VPU3525G4A,WSG-917,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,60,60,0,0,No Inspection Data,,,0
+P03-CAT-66-3,UPI4241E4A,WSG-929,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,90,90,"1,393",0,No Inspection Data,,,0
+P04-CAT-66-4,VCM0126T1A,WSG-930,35/65R33 MIC XLDD2 A L5 **,N,,,No Pressure,90,90,"1,393",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-67         CAT 988F         In Service                         Last Meter Hours:  21,282        ",,,,,,,,,,,,,,,
+P01-CAT-67-1,XC8DVC478,,35/65-33 YOK Y524 CP L5 42 PR,N,,,No Pressure,89,89,0,0,No Inspection Data,,,0
+P02-CAT-67-2,XY47VD232,,35/65-33 YOK Y524 CP L5 42 PR,N,,,No Pressure,89,89,0,0,No Inspection Data,,,0
+P03-CAT-67-3,,CL077LR,35/65R33 KAL GL S&G KTCA L5 RT,N,,,No Pressure,72,72,0,0,No Inspection Data,,,0
+P04-CAT-67-4,,CL077RR,35/65R33 KAL GL S&G KTCA L5 RT,N,,,No Pressure,70,70,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-68         CAT 988F         In Service                         Last Meter Hours:  44,605        ",,,,,,,,,,,,,,,
+P01-CAT-68-1,H59AVC683,,35/65-33 YOK Y524 CP L5 42 PR,N,,,No Pressure,64,64,0,0,No Inspection Data,,,0
+P02-CAT-68-2,A52AVC219,,35/65-33 YOK Y524 CP L5 42 PR,N,,,No Pressure,65,65,0,0,No Inspection Data,,,0
+P03-CAT-68-3,HE4XVC247,,35/65-33 YOK Y524 CP L5 42 PR,N,,,No Pressure,64,64,0,0,No Inspection Data,,,0
+P04-CAT-68-4,AP54VC615,,35/65-33 YOK Y524 CP L5 42 PR,N,,,No Pressure,59,59,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-69         CAT 988F         In Service                         Last Meter Hours:  34,635        ",,,,,,,,,,,,,,,
+P01-CAT-69-1,XPF1454T0A,,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,38,38,0,0,No Inspection Data,,,0
+P02-CAT-69-2,IPF1387T7A,,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,41,41,0,0,No Inspection Data,,,0
+P03-CAT-69-3,DPF1628T6A,,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,40,40,0,0,No Inspection Data,,,0
+P04-CAT-69-4,XPF1449T5A,,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,37,37,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-70         CAT 988H         In Service                         Last Meter Hours:  13,077        ",,,,,,,,,,,,,,,
+P01-CAT-70-1,YPA0156M8A,523027933,35/65R33 KAL GL S&G KTCA L5 RT,N,,,No Pressure,72,72,0,0,No Inspection Data,,,0
+P02-CAT-70-2,524094011,PM19264,35/65R33 KAL GL S&G KTCA L5 RT,N,,,No Pressure,68,68,0,0,No Inspection Data,,,0
+P03-CAT-70-3,524094012,PM19262,35/65R33 KAL GL S&G KTCA L5 RT,N,,,No Pressure,70,70,0,0,No Inspection Data,,,0
+P04-CAT-70-4,523027931,PM18636,35/65R33 KAL GL S&G KTCA L5 RT,N,,,No Pressure,80,80,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         CAT-71         CAT 988H         In Service                         Last Meter Hours:  12,924        ",,,,,,,,,,,,,,,
+P01-CAT-71-1,S4BBT0106,,35/65R33 BST VSDL D2A L5 *,N,,,No Pressure,56,56,0,0,No Inspection Data,,,0
+P02-CAT-71-2,S4JBT0022,,35/65R33 BST VSDL D2A L5 *,N,,,No Pressure,54,54,0,0,No Inspection Data,,,0
+P03-CAT-71-3,S4JBT0031,,35/65R33 BST VSDL D2A L5 *,N,,,No Pressure,60,60,0,0,No Inspection Data,,,0
+P04-CAT-71-4,S4JBT0039,,35/65R33 BST VSDL D2A L5 *,N,,,No Pressure,51,51,0,0,No Inspection Data,,,0
+CA8363 - WATERFORD S+G         CAT-72         CAT 988K         In Service                         Last Meter Hours:  444,,,,,,,,,,,,,,,
+P01-CAT-72-1,VPU3417G2A,WSG-915,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,60,60,51,0,No Inspection Data,,,0
+P02-CAT-72-2,VPU3524G5A,WSG-914,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,60,60,51,0,No Inspection Data,,,0
+P03-CAT-72-3,EPU6000GPA,WSG-969,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,60,60,0,0,No Inspection Data,,,0
+P04-CAT-72-4,APA3027E1A,WSG-964,35/65R33 MIC XTXL A L4 ***,N,,,No Pressure,60,60,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         DSN-1         DOO DL450-3         In Service                         Last Meter Hours:  11,206        ",,,,,,,,,,,,,,,
+P01-DSN-1-1,F7R384670,WSG-832,29.5R25 BST VJT D2A L3 *,N,,,No Pressure,27,27,"1,966",0,No Inspection Data,,,0
+P02-DSN-1-2,AN8CDA876,524701254,29.5R25 YOK RB31 CPC E3/L3 **,N,,,No Pressure,32,32,"2,245",0,No Inspection Data,,,0
+P03-DSN-1-3,523039924,WSG-834,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,22,22,"1,966",0,No Inspection Data,,,0
+P04-DSN-1-4,523858776,WSG-835,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,23,23,"1,966",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         DSN-2         DOO DL550-3         In Service                         Last Meter Hours:  7,435        ",,,,,,,,,,,,,,,
+P01-DSN-2-1,FIEI83058C1,WSG-562C1,29.5R25 KAL VMT B2B KTCA E3 RT,Y,,,No Pressure,24,24,"2,147",0,No Inspection Data,,,0
+P02-DSN-2-2,FIEI83050C1,WSG-563C1,29.5R25 KAL VMT B2B KTCA E3 RT,Y,,,No Pressure,24,24,"2,147",0,No Inspection Data,,,0
+P03-DSN-2-3,22110713801,,29.5R25 TRI TB516 T1 E3 **,N,,,No Pressure,19,19,"5,975",0,No Inspection Data,,,0
+P04-DSN-2-4,22110613801,,29.5R25 TRI TB516 T1 E3 **,N,,,No Pressure,21,21,"5,975",0,No Inspection Data,,,0
+CA8363 - WATERFORD S+G         JD-1         CAT 930H         In Service                         Last Meter Hours:  0,,,,,,,,,,,,,,,
+P01-JD-1-1,Y35002939,WSG-271,20.5R25 BST VKT D2A L2 *,N,,,No Pressure,13,13,"5,721",0,No Inspection Data,,,0
+P02-JD-1-2,Y35002940,WSG-272,20.5R25 BST VKT D2A L2 *,N,,,No Pressure,13,13,"5,721",0,No Inspection Data,,,0
+P03-JD-1-3,01242BA08,,20.5-25 GEN LD 100 Std L3 20 PR,N,,,No Pressure,14,14,"1,340",0,No Inspection Data,,,0
+P04-JD-1-4,02707BA02,,20.5-25 GEN LD 100 Std L3 20 PR,N,,,No Pressure,14,14,"1,340",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         JD-11         CAT 930H         In Service                         Last Meter Hours:  25,320        ",,,,,,,,,,,,,,,
+P01-JD-11-1,60021-2,WSG-773,23.5R25 GDY RL2+ 6S E3 *,N,,,No Pressure,30,30,"1,514",0,No Inspection Data,,,0
+P02-JD-11-2,117046-4,WSG-776,23.5R25 GDY RL2+ 6S E3 *,N,,,No Pressure,27,27,"1,514",0,No Inspection Data,,,0
+P03-JD-11-3,LLP0470S6A,524704446,23.5R25 MIC XHA Std L3 *,N,,,No Pressure,27,27,40,0,No Inspection Data,,,0
+P04-JD-11-4,TBC RR,,23.5R25 TRI TB516 Std E3 **,N,,,No Pressure,19,19,"1,514",0,No Inspection Data,,,0
+CA8363 - WATERFORD S+G         JD-6         CAT 930H         In Service                         Last Meter Hours:  300,,,,,,,,,,,,,,,
+P01-JD-6-1,Y35006565,WSG-274,20.5R25 BST VKT D2A L2 *,N,,,No Pressure,11,11,"3,327",0,No Inspection Data,,,0
+P02-JD-6-2,Y35000126,WSG-273,20.5R25 BST VKT D2A L2 *,N,,,No Pressure,13,13,"3,327",0,No Inspection Data,,,0
+P03-JD-6-3,LRJD6,,20.5R25 GDY GP2B 6S L3 *,N,,,No Pressure,28,28,0,0,No Inspection Data,,,0
+P04-JD-6-4,RRJD6,,20.5R25 GDY GP2B 6S L3 *,N,,,No Pressure,28,28,0,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         JD-7         CAT 930H         In Service                         Last Meter Hours:  13,400        ",,,,,,,,,,,,,,,
+P01-JD-7-1,Y35008222,WSG-269,20.5R25 BST VKT D2A L2 *,N,,,No Pressure,9,9,"6,729",0,No Inspection Data,,,0
+P02-JD-7-2,Y35008227,WSG-267,20.5R25 BST VKT D2A L2 *,N,,,No Pressure,10,10,"5,977",0,No Inspection Data,,,0
+P03-JD-7-3,0212MJ0215,,20.5R25 GDY GP2B 6S L3 *,N,,,No Pressure,13,13,"1,041",0,No Inspection Data,,,0
+P04-JD-7-4,0112MJ1327,,20.5R25 GDY GP2B 6S L3 *,N,,,No Pressure,14,14,"1,041",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         LBR-1         LIE L586 XPOWER         In Service                         Last Meter Hours:  10,658        ",,,,,,,,,,,,,,,
+P01-LBR-1-1,APU1371M2A,WSG-895,29.5R25 MIC XLDD1 A L4 *,N,,,No Pressure,46,46,"1,066",0,No Inspection Data,,,0
+P02-LBR-1-2,APU1369M4A,WSG-896,29.5R25 MIC XLDD1 A L4 *,N,,,No Pressure,45,45,"1,066",0,No Inspection Data,,,0
+P03-LBR-1-3,APU1321M2A,WSG-897,29.5R25 MIC XLDD1 A L4 *,N,,,No Pressure,49,49,"1,066",0,No Inspection Data,,,0
+P04-LBR-1-4,APU1339M4A,WSG-898,29.5R25 MIC XLDD1 A L4 *,N,,,No Pressure,48,48,"1,066",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         LBR-2         LIE L586 XPOWER         In Service                         Last Meter Hours:  10,743        ",,,,,,,,,,,,,,,
+P01-LBR-2-1,EVV9463U7A,WSG-786,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,15,15,"4,974",0,No Inspection Data,,,0
+P02-LBR-2-2,AVV0591U9A,WSG-785,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,19,19,"4,974",0,No Inspection Data,,,0
+P03-LBR-2-3,1VYO285M1AC2,WSG-540/524594386C2,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,16,16,"4,974",0,No Inspection Data,,,0
+P04-LBR-2-4,XVX3600T9AC1,WSG-645TC1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,15,15,"4,974",0,No Inspection Data,,,0
+CA8363 - WATERFORD S+G         LBR-4         LIE L586 XPOWER         In Service                         Last Meter Hours:  650,,,,,,,,,,,,,,,
+P01-LBR-4-1,FUU0614A4A,WSG-940,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,39,39,650,0,No Inspection Data,,,0
+P02-LBR-4-2,FVU0546A2A,WSG-943,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,40,40,650,0,No Inspection Data,,,0
+P03-LBR-4-3,FVU0296A2A,WSG-941,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,40,40,650,0,No Inspection Data,,,0
+P04-LBR-4-4,FVU0509A9A,WSG-942,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,40,40,650,0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-10         VOL L150E         In Service                         Last Meter Hours:  19,211        ",,,,,,,,,,,,,,,
+P01-V-10-1,CVE0321G4AC1,WSG-784/526130890C1,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,38,38,0,0,No Inspection Data,,,0
+P02-V-10-2,14091412401C1,WSG-787/525746414C1,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,38,38,0,0,No Inspection Data,,,0
+P03-V-10-3,W8A003599,WSG-861,26.5R25 FST VERSABUILT DT CRC E4/L4 MS,N,,,No Pressure,13,13,"1,396",0,No Inspection Data,,,0
+P04-V-10-4,W8A003594,WSG-859,26.5R25 FST VERSABUILT DT CRC E4/L4 MS,N,,,No Pressure,17,17,"1,396",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-3         VOL L150C         In Service                         Last Meter Hours:  4,322        ",,,,,,,,,,,,,,,
+P01-V-3-1,W8S003878,WSG-857,26.5R25 BST VMT D2A L3 *,N,,,No Pressure,28,28,750,0,No Inspection Data,,,0
+P02-V-3-2,W8S002619,WSG-856,26.5R25 BST VMT D2A L3 *,N,,,No Pressure,27,27,750,0,No Inspection Data,,,0
+P03-V-3-3,90660C1,WSG-393C1,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,10,10,"3,012",0,No Inspection Data,,,0
+P04-V-3-4,14091632401,WSG-788/525893118,26.5R25 TRI TB516 Std L3 **,Y,,,No Pressure,10,10,"4,200",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-4         VOL L220F         In Service                         Last Meter Hours:  5,000        ",,,,,,,,,,,,,,,
+P01-V-4-1,AVD2672A7A,WSG-723,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,14,14,"15,433",0,No Inspection Data,,,0
+P02-V-4-2,AVD2096A3A,WSG-722,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,10,10,"15,433",0,No Inspection Data,,,0
+P03-V-4-3,AVD2673A6A,WSG-724,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,10,10,"15,433",0,No Inspection Data,,,0
+P04-V-4-4,AVD2363A6A,WSG-725,29.5R25 MIC XHA2 Std L3 *,N,,,No Pressure,8,8,"15,433",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-5         VOL L220F         In Service                         Last Meter Hours:  19,350        ",,,,,,,,,,,,,,,
+P01-V-5-1,W8S001630,WSG-849,29.5R25 BST VMT D2A L3 *,N,,,No Pressure,16,16,958,0,No Inspection Data,,,0
+P02-V-5-2,W8S001637,WSG-848,29.5R25 BST VMT D2A L3 *,Y,,,No Pressure,18,18,825,0,No Inspection Data,,,0
+P03-V-5-3,AVC1539M7AC1,WSG-569C1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,6,6,"2,111",0,No Inspection Data,,,0
+P04-V-5-4,2055/YVF1368M0AC2,WSG-401C2,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,13,13,"1,870",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-6         VOL L220F         In Service                         Last Meter Hours:  22,064        ",,,,,,,,,,,,,,,
+P01-V-6-1,ZVC2250M6AC1,WSG-581C1,29.5R25 KAL VMT B2B KTCA E3 RT,N,,,No Pressure,16,17,"5,723",0,No Inspection Data,,,0
+P02-V-6-2,DVX0381G9A,WSG-662,29.5R25 MIC X SUP-T AD Std E4T **,N,,,No Pressure,19,18,"11,228",0,No Inspection Data,,,0
+P03-V-6-3,XH0SNB424,WSG-615,29.5R25 YOK RB31 CPC E3/L3 **,N,,,No Pressure,19,19,"11,938",0,No Inspection Data,,,0
+P04-V-6-4,XH0SNB425,WSG-618,29.5R25 YOK RB31 CPC E3/L3 **,Y,,,No Pressure,19,19,"11,836",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-7         VOL L150C         In Service                         Last Meter Hours:  1,990        ",,,,,,,,,,,,,,,
+P01-V-7-1,X6R003472C2,WSG-406C2,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,37,37,552,0,No Inspection Data,,,0
+P02-V-7-2,X6R003468C2,WSG-409C2,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,32,32,552,0,No Inspection Data,,,0
+P03-V-7-3,90658C1,WSG-392C1,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,25,25,"3,477",0,No Inspection Data,,,0
+P04-V-7-4,90661C1,WSG-390C1,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,27,27,"3,477",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-8         VOL L160         In Service                         Last Meter Hours:  7,277        ",,,,,,,,,,,,,,,
+P01-V-8-1,X7Y002228,WSG-709,26.5R25 BST VKT D2A L2 *,N,,,No Pressure,15,15,"4,129",0,No Inspection Data,,,0
+P02-V-8-2,X7Y001236,WSG-708,26.5R25 BST VKT D2A L2 *,N,,,No Pressure,13,13,"4,129",0,No Inspection Data,,,0
+P03-V-8-3,X7Y000568,WSG-711,26.5R25 BST VKT D2A L2 *,N,,,No Pressure,10,10,"4,129",0,No Inspection Data,,,0
+P04-V-8-4,X7Y000572,WSG-710,26.5R25 BST VKT D2A L2 *,N,,,No Pressure,15,15,"4,129",0,No Inspection Data,,,0
+"CA8363 - WATERFORD S+G         V-9         VOL L150E         In Service                         Last Meter Hours:  20,000        ",,,,,,,,,,,,,,,
+P01-V-9-1,UVZ0781G1BC1,WSG-667C1,26.5R25 KAL VMT B2B KTCA E3/L3 RT,N,,,No Pressure,33,33,600,0,No Inspection Data,,,0
+P02-V-9-2,F5K381381C1,WSG-613C1,26.5R25 KAL VMT B2B KTCA E3/L3 RT,Y,,,No Pressure,32,32,600,0,No Inspection Data,,,0
+P03-V-9-3,,HR60,26.5R25 GDY RL2+ 6S L3 *,N,,,No Pressure,17,17,718,0,No Inspection Data,,,0
+P04-V-9-4,,WSG-756,26.5R25 YOK RB31 CP E3/L3 **,N,,,No Pressure,6,6,"1,976",0,No Inspection Data,,,0
